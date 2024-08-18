@@ -1,0 +1,1 @@
+following [this](https://www.youtube.com/watch?v=vcSijrRsrY0&list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs) playlist to learn cpp, compilers and asm
