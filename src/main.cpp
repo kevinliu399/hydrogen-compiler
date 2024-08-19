@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
     std::optional<NodeProg> prog = parser.parse_prog();
 
     if (!prog.has_value()) {
-        std::cerr << "Invalid Program" << std::endl;
+        std::cerr << "Invalid program" << std::endl;
         exit(EXIT_FAILURE);
     }
 
